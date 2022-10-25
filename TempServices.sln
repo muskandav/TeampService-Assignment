@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempServices", "TempServices\TempServices.csproj", "{0297BCBB-5F77-4506-9B25-E86409043E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempServices.Test", "TempServices.Test\TempServices.Test.csproj", "{27EF23B2-8291-4516-9B1B-9C852A687D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0297BCBB-5F77-4506-9B25-E86409043E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0297BCBB-5F77-4506-9B25-E86409043E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0297BCBB-5F77-4506-9B25-E86409043E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0297BCBB-5F77-4506-9B25-E86409043E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27EF23B2-8291-4516-9B1B-9C852A687D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EF23B2-8291-4516-9B1B-9C852A687D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EF23B2-8291-4516-9B1B-9C852A687D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EF23B2-8291-4516-9B1B-9C852A687D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACB09D81-C9F9-4A58-B5EA-F81C5A024BA0}
+	EndGlobalSection
+EndGlobal
